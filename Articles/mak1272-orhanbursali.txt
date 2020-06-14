@@ -1,0 +1,41 @@
+18 Aralýk 2018 Salý
+
+Bilim dünyasýnýn ciddi dergilerinde süren “genetiði deðiþtirilmiþ bebek” üzerine tartýþmalarda üzerinde birleþilen nokta þu: Artýk durdurulamaz bir adým atýldý! Devamý gelecek!
+
+Topu topu 5 yýl kadar önce geliþtirilen CRISPR-Cas9 “gen düzenleme tekniði”, dünyanýn dört bir yanýnda genlere, ucuz, hýzlý ve güvenilir müdahale etmeyi kolaylaþtýrdý. Ülkemizde de bu tekniði deneme amaçlý kullanan var. Aziz Sancar da yeni tekniklere meraklý bir bilimci olarak, laboratuvarýnda tekniðin çalýþtýðýný denedi ve gördü. (Herkese Bilim Teknoloji dergisinin 132. sayýsýnda -5 Ekim 2018- bu teknik “Yüzyýlýn Keþfi” baþlýðýyla kapak oldu ve geniþ bir þekilde anlatýldý.)
+
+Dolayýsýyla, uzman bilimcilerin elinde önemli bir “silah” var. Bu “silahýn” insan saðlýðý için kullanýlmak isteneceði de açýk.
+
+‘Frankeþtayn Laboratuvarý’
+
+Hemen akla “kötüye kullaným”, “Frankeþtaynlar yaratýlabilir” türünden olasýlýklar geliyor. Kötü niyetliler bir Frankeþtayn Laboratuvarý’nda þüphesiz denemeler yapabilir. Ama bu çok uzak bir olasýlýk, unutmayýn ki böyle bir çocuðu doðuracak anaya, aileye ve bu uygulamalar için kurumsal bir yapýya ihtiyaç var.
+
+Ayrýca CRISPR-Cas9 gen makasý salt insan genomu için deðil, özellikle ve aðýrlýklý olarak bitki dünyasýnda, tarýmsal üretimde ve kalitede büyük devrim yaratacak geliþmelere yol açacak. Bunu yazarken bilgisayarýma düþen haberde pirinç üretimini 3-4 kat artýracak geliþmeden bahsediliyordu... Bu teknik tüm yaþayan organizmalarda kullanýlabilir. Dahasý biyoteknoloji ve ilaç þirketlerinde de hemen baþ tacý edildi.
+
+Ýnsandan önce bu teknik, 2013’te hayvan ve bitki genlerinin yeniden düzenlenmesinde kullanýlmýþtý (MIT- Feng Zhang).
+
+Ve sýrada insan vardý, bu da gerçekleþti...
+
+Ýyileþtirme mi, bozma mý?
+
+Burada esas konu, insana yapýlacak genetik müdahalelerin insanlarda ucube sayýlabilecek sonuçlar doðurmasý. Bedende çeþitli eksikliklere, hastalýk sayýlabilecek arazlara yol açmasý; bedenin doðal biyolojik-psikolojik-kimyasal iþleyiþini sekteye uðratacak, bazý fonksiyonlarýný bozacak sonuçlar üretmesi. Özetle doðal olmayan genetik arazlardan bahsediyoruz.
+
+Böyle bir durumda bilim-týp tedavi edici- düzeltici bir kurum olmaktan uzaklaþýr ve tersine bedeni bozucu olur. Bilime güven azalýr.
+
+Dolayýsýyla bilimsel etik kurul ve kurumlarýn ana tartýþmasý, genetik müdahalelerde geliþigüzel deðil, kontrol edilebilir ve sonuçlarý tahmin edilebilir bir yol yordam dahilinde ilerlenmesi.
+
+Bu tür müdahaleler teknik ve bilgi olarak olgunlaþmýþ olmalý, baþarýsýzlýðý engellemeli.
+
+Çünkü insan genomuna müdahale, bir tür mutasyondur ve sonraki nesillerin üreme hattýna geçer ve sonraki nesilleri etkiler, kalýtsal kanserler yaratabilir (meme kanseri gibi). Bu nedenle bilim dünyasý bu kontrolü acilen ele almak için tartýþýyor (*).
+
+Ýnsan üremesinde hatalarý gidermek
+
+Bu tartýþmada ilginç bir baþka nokta da, düzeltilmesi mümkün olmayan bazý (kalýtsal) mutasyonlarýn da bu yöntemle yok edilebilirliðini ve üreme hattýnýn “temizlenebileceðini”, genoma olumlu müdahale edilebileceðini belirtmesi, ki zaten Çinli Jiankui de bu amaçla hareket ettiðini belirtiyor.
+
+Yani yöntem bir “yenilikçi tedavi”yi de gündeme getiriyor.
+
+Týbbi etik, bu amaçla yasal bir “düzenleyici sistem”i þart görüyor.
+
+Ayrýca gen düzenleme konusunda klinik öncesi araþtýrmalara ciddi fonlar ayrýlmasý, küresel-ulusal kayýtlar tutulmasý; araþtýrmalara ve müdahalelere etik onaylarýn düzenlenmesi talebi de var. Burada Uluslararasý Kök Hücre Araþtýrmalarý Derneði’nin 2016 yönergeleri örnek gösteriliyor. (*)
+
+Ýki örnek yazý, Jiankui’s claim to have gene-edited a baby demands a response from the community, Nature 564, 5 (2018). Baby gene edits could affect a range of traits, Nature 564, 5 (2018) 12 December 2018.

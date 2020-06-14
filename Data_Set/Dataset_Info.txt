@@ -1,0 +1,30 @@
+Özellikler (Attributes) (Girdiler):
+1) Cümle sayısı
+2) Kelime sayısı
+3) Farklı kelime sayısı
+4) Ünlem
+5) Nokta Sayısı
+6) Virgül sayısı
+7) Soru İşareti
+8) İki Nokta
+9) İsim Sayısı
+10) Fiil sayısı
+11) Sıfat Sayısı
+12) Zamir Sayısı
+13) Zarf Sayısı
+14) Bağlaç Sayısı
+15) Edat Sayısı
+16) Zaman Belirten Kelime Sayısı
+17) Sayı İçeren Kelime Sayısı
+18) Özel Kelime sayısı
+19) Kısaltma Sayısı
+20) Soru Sayısı
+
+0 >>> Adnan Dinçer
+1 >>> Ahmet Tan
+2 >>> Ali Sirmen
+3 >>> Emre Kongar
+4 >>> Erol Manisalı
+5 >>> Hilmi Türkay
+6 >>> Mustafa Balbay
+7 >>> Orhan Bursalı

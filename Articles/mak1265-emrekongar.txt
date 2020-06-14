@@ -1,0 +1,43 @@
+29 Nisan 2014 Salý
+
+Türkiye’nin demokrasi tarihi, “milli irade” adý altýnda yutturulmaya çalýþýlan “çoðunluk diktatörlüðü” ile temel hak ve özgürlükler arasýndaki çatýþmayla belirlenmiþtir.
+
+“Çoðunluk diktatörlüðünün arkasýnda çarpýtýlmýþ bir “milli irade” kavramý, onun arkasýnda da “sandýk” vardýr: “Sandýk güvenliði” bugünkü rejimin temel sorunlarýnýn en baþýnda gelir...
+
+Onun için, geçmiþte yazdýðým sayýsýz yazýya ilaveten, üç gündür bu konuda yazýp duruyorum.
+
+***
+
+Temiz Seçim Platformu’nun son seçimlerle ilgili raporunu burada özetlemiþtim; bugün sýra, SEÇSÝS denilen elektronik sistemde.
+
+SEÇSÝS, dýþarýdan müdahalelere açýk olduðu için Yunanistan ve Almanya’da terk edilen güvenilmez bir sistemdir. SEÇSÝS sistemi için platformun önerileri þöyle:
+
+1) Kullanýlan yazýlýmýn kaynak kodlarý siyasi partilerin kontrolüne açýlmalýdýr.
+
+2) Açýk kaynak kodlu yazýlýma geçilmelidir.
+
+3) YSK’nin denetimindeki bilgi iþlem merkezinde tüm siyasi partilerin temsilcileri bulunmalýdýr.
+
+4) TÜBÝTAK tarafýndan yeni bir zaman damgasý üretilmeli, siyasi partilere link atýlarak eþzamanlý veri kaydý saðlanmalýdýr.
+
+5) Kullanýlan güvenlik aðý, portal anahtarý daha güvenli bir duruma getirilmeli, SEÇSÝS üçüncü bir kontrol/ güvenlik yazýlýmý ile korunmalýdýr.
+
+6) Sayým esnasýnda yaþanan sistem aksaklýklarýndan sonra merkezi bilgisayarýn kayýt loglarý incelenmelidir.
+
+7) Sonuçlarý sorgulama hakký siyasi partilere de verilmelidir. Siyasi partiler altyapýya dahil edilmeli, tek taraflý link açýlarak verilerin eþzamanlý kaydý saðlanmalýdýr.
+
+8) Veri akýþý biter bitmez harici disk, internet yolu ile herkese açýlmalý, bireyler sandýk sonuçlarýný görebilmelidir.
+
+9) SEÇSÝS altyapýsý UYAP’tan baðýmsýz hale getirilmeli, yeni bir altyapý oluþturulmalýdýr.
+
+10) Kullanýlan kripto gözden geçirilmeli, güvenlik katsayýsý artýrýlmalý ve her seçim döneminde yenilenmelidir.
+
+11) Ýlçe seçim kurullarý ile merkezi sistem arasýndaki Telekom altyapýsý her aþamada denetlenmelidir.
+
+12) Sisteme baðlý her terminalin baþýnda siyasi partiler temsilci bulundurmalýdýr.
+
+13) Oy pusulalarýnda seçim bölgesi ve sandýk numaralarý yazýlý olmalý, seçim sonuç tutanaðý tarayýcýdan geçirilerek orijinal haliyle seçmenin denetimine açýlmalýdýr.
+
+***
+
+“Sandýk güvenliði” saðlanmadan yapýlan bütün demokrasi tartýþmalarý sonuçsuz kalmaya mahkûmdur.

@@ -1,0 +1,150 @@
+12 Þubat 2013 Salý
+
+Konuyu köþeme Tolga Tanýþ’ýn Hürriyet’te iki pazar önce çýkan bir yazýsý üzerine, salý günü taþýdým:
+
+
+
+
+
+
+
+Tanýþ, Kanadalý bir grubun dünyada yaptýðý araþtýrmalarda, Türkiye’de de TTNet’in, kullanýcýlarýn kiþisel bilgilerini fiþleyen ve sonra bunu ticari amaçlar için istismar eden bir program kurmuþ olduðunun saptandýðýný belirtiyordu.
+
+
+
+
+
+
+
+Bu yazým üzerine ayný gün, TTNet’ten bir açýklama geldi; bu açýklamayý ve baþka bazý bilgileri “Top Bilgi Teknolojileri ve Ýletiþim Kurumu’nda” dediðim ikinci bir yazýyla perþembe günü okurlarýmla paylaþtým.
+
+
+
+
+
+
+
+Bu yazýmdan sonra, Bilgi Teknolojileri ve Ýletiþim Kurumu BTK’den iki gün ses çýkmayýnca da üçüncü bir yazýda, cumartesi günü, olayý kamuoyuna taþýyan Ýzmir Milletvekili Erdal Aksünger’in böyle bilgileri toplayan programý kullanan Phorm adlý þirket hakkýnda yaptýðý açýklamayý da içeren üçüncü bir yazý daha yazdým ve bu arada BTK’nin sessizliðini “garip bulduðumu” belirttim.
+
+
+
+
+
+
+
+Bu üçüncü yazýmýn çýktýðý cumartesi günü BTK’nin basýn müdürü Murat Aydýn aradý ve bir gün önce hem bana hem gazeteye bir açýklama yolladýklarýný belirtti…
+
+
+
+
+
+
+
+Bu açýklama ne yazýk ki elime ulaþmamýþtý.
+
+
+
+
+
+
+
+Aydýn’dan rica ettim, açýklamayý bir kez daha yolladý; BTK’ye ilgisi için teþekkür ediyorum:
+
+
+
+
+
+
+
+“…Elektronik haberleþme sektöründe faaliyet gösteren iþletmecilerin, kiþisel verilerin korunmasý suretiyle faaliyette bulunmalarýnýn saðlanmasý kurumumuzun en temel görevlerinden birisidir.
+
+
+
+
+
+
+
+Bu kapsamda kurumumuzca, elektronik haberleþme sektöründe kiþisel verilerin iþlenmesi ve gizliliðinin korunmasý için sektörde faaliyet gösteren iþletmecilerin uyacaklarý usul ve esaslarý düzenlemek amacýyla 2004 yýlýnda ‘Telekomünikasyon Sektöründe Kiþisel Verilerin Ýþlenmesi ve Gizliliðinin Korunmasý Hakkýnda Yönetmelik’ çýkarýlmýþtýr.
+
+
+
+
+
+
+
+Geçtiðimiz yýl güncellenerek ‘Elektronik Haberleþme Sektöründe Kiþisel Verilerin Ýþlenmesi ve Gizliliðinin Korunmasý Hakkýnda Yönetmelik’ adý altýnda 24 Temmuz 2012 tarihli Resmi Gazete’de yayýmlanan yeni yönetmelik, 24 Ocak 2013 tarihinde yürürlüðe girmiþtir.
+
+
+
+
+
+
+
+Yönetmeliðin ‘Haberleþmenin gizliliði’ baþlýklý 7’nci maddesi, ‘Trafik verisinin iþlenmesi’ baþlýklý 8’inci maddesi ve ‘Trafik verisini iþleme yetkisi’ baþlýklý 9’uncu maddesinde, kullanýcýlarýn kiþisel verilerinin iþlenmesinde uyulmasý gereken hususlara detaylý bir þekilde yer verilmiþtir.
+
+
+
+
+
+
+
+Yönetmelik hükümlerinin ihlal edildiðine iliþkin olarak kurumumuza intikal eden ihbar ve þikâyetler hakkýnda gerekli iþlemler yapýlmaktadýr. Örnek olarak kýsa bir süre önce kamuoyuna yansýyan ‘TTNet’in, Phorm þirketi aracýlýðýyla kiþisel veri ihlali yaptýðý’ iddiasý üzerine kurulumuz tarafýndan TTNet hakkýnda soruþturma baþlatýlmýþ ve talep etmeyen bütün abonelerin Gezinti.com hizmeti kapsamýndan çýkarýlmasýna karar verilmiþtir.
+
+
+
+
+
+
+
+Yazýnýza konu olan Blue Coat Systems þirketine ait PacketShaper adlý ürünle ilgili olarak da Bilgi Edinme Hakký kapsamýnda kurumumuza yapýlan bir baþvuru üzerine konu incelemeye alýnmýþtýr. Ýnceleme tamamlandýðýnda sizlere ve kamuoyuna bilgi verilecektir.”
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+Öyle anlaþýlýyor ki BTK, konuyla ilgili olarak, vatandaþlarýn ve tüketicilerin temel hak ve özgürlüklerini koruma sorumluluðunu yerine getirmeye çalýþýyor…
+
+
+
+
+
+
+
+Ayrýca önemli ikinci bir husus, olay hakkýndaki soruþturmanýn devam ettiði; bu noktayý Aydýn, konuþmamýzda özellikle vurguladý.
+
+
+
+
+
+
+
+Konu hakkýnda Tolga Tanýþ geçen pazar bir yazý daha yazdý ve adý geçen PacketShaper izleme programýnýn Uluslararasý Kýbrýs Üniversitesi’nce kullanýldýðýný açýkladý.
+
+
+
+
+
+
+
+Bu arada Linux Kullanýcýlarý Derneði Yönetim Kurulu Baþkaný Volkan Evrin’den, BTK’nin kararýný deðerlendiren ve eleþtiren bir mektup aldým.
+
+
+
+
+
+
+
+Ýlgilenenler, burada sözünü ettiðim açýklamalarýn tam metinlerine benim kongar.org adresli sitemden ulaþabilir.
+
+
+

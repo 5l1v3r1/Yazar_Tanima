@@ -1,0 +1,230 @@
+07 Þubat 2013 Perþembe
+
+Salý günü yazdýðým “TTNet, Abonelerini Röntgenliyor mu?” baþlýklý yazýda, Tolga Tanýþ’ýn pazar günü Hürriyet’te çýkan makalesinden bazý bölümleri aktarmýþtým:
+
+
+
+
+
+
+
+“Toronto Üniversitesi’nde bir grup öðrenci Citizen Lab adýnda bir örgüt kurmuþ. Dünyanýn her yerinde internete uygulanan yasaklarý, sansürleri takip edip raporluyor. Son küresel raporlarýný geçen ay açýkladýlar. Ve Türkiye’den de bahsettiler. Ýnternete filtre uygulamasý, yasaklanan siteler… Bilinen þeyler.
+
+
+
+
+
+
+
+Ama iþin asýl ilginç olan teknik kýsmýnda ise… Grup, sansür için de kullanýldýðýný düþündüðü Blue Coat Systems þirketine ait PacketShaper adlý bir ürünün TTNet tarafýndan da kurulduðunu tespit etmiþ.
+
+
+
+
+
+
+
+Araþtýrmanýn baþýndaki Jakub Dalek’i aradým. Biraz daha detay öðrenmek istedim. ‘Aslýnda Türkiye çok kötü durumda deðil. PacketShaper’ý sadece tek bir yerde tespit ettik. Suudi Arabistan, Suriye gibi ülkelerin yanýnda çok düþük bir oran’ dedi.
+
+
+
+
+
+
+
+‘PacketShaper sansürü nasýl gerçekleþtiriyor’ dedim.
+
+
+
+
+
+
+
+‘Kiþisel bilgilerin takibini saðlayýp izleme özelliði taþýyor’ dedi.
+
+
+
+
+
+
+
+Mesela okuduðunuz her e-postanýn takip edilmesi, Google’da aradýðýnýz her sözcüðün kaydedilmesi gibi.”
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+Daha sonra da “Tanýþ’ýn makalesinde anlatýlan iddia gerçek midir? Gerçekse bu, anayasal bir hak olan özel yaþamýn gizliliðinin ihlali deðil midir” diye sormuþtum.
+
+
+
+
+
+
+
+TTNet’ten, Zeynel Çaðlar’dan “net” bir yanýt geldi; böyle bir programý kullanmadýklarýný belirtiyor:
+
+
+
+
+
+
+
+“ …Yazýya konu olan ‘PacketShaper’ adlý ürün TTNet tarafýndan kesinlikle kullanýlmamaktadýr. Bu ürün dünyada aðýrlýklý olarak kurumsal þirketler tarafýndan, o þirketin internet çýkýþlarýnýn kontrollü olmasýný saðlamak amacýyla kullanýlan bir sistemdir.
+
+
+
+
+
+
+
+Türkiye’de kýsaca ‘IP adresi’ (orjinali ‘Internet Protocol Address’ ) olarak tanýmlanan kavram, aðlara baðlý cihazlarýn að üzerinden birbirleriyle veri alýþveriþi yapmak için kullandýklarý adresi ifade eder. Kurumsal müþteriler, IP adresi olarak hizmet aldýklarý internet servis saðlayýcýsýnýn IP adresini kullanmaktadýr. Bu nedenle hizmeti alan olarak ilgili internet servis saðlayýcýsý görülebilmektedir.
+
+
+
+
+
+
+
+Müþterilerimiz içinde bu ürünü kullananlar var ise TTNet olarak bunun tespitini yapmamýz da mümkün deðildir.
+
+
+
+
+
+
+
+…Konuyu bilginize sunar, ilgili ihtiyaç duyacaðýnýz her türlü ek bilgiyi paylaþmaktan memnuniyet duyarýz.
+
+
+
+
+
+
+
+Saygýlarýmýzla.
+
+
+
+
+
+
+
+TTNET A.Þ.”
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+TTNet’e duyarlýlýðý için teþekkür ederim.
+
+
+
+
+
+
+
+Þimdi top, Bilgi Teknolojileri ve Ýletiþim Kurumu’nda.
+
+
+
+
+
+
+
+Türkiye’de Sosyal Güvenlik Kurumu’nun elindeki kullanýcý bilgilerini özel bir firmaya sattýðýný geçen gün, CHP Mersin Milletvekili Aytuð Atýcý’nýn yaptýðý basýn toplantýsýndan öðrenmiþtik.
+
+
+
+
+
+
+
+Bunun üzerine yazdýðým “Kaydedilen Mahremiyetimiz ve Totaliterlik” baþlýklý yazýmýn çýktýðý gün öðlen saatlerinde Atýcý aradý ve “Hocam þu anda Bakan, iddialarýmý doðrulayan bir açýklama yapýyor CNN’de” diye haber verdi.
+
+
+
+
+
+
+
+Konu, AKP korkusuyla sinmiþ olan medyada elbette kaynadý gitti…
+
+
+
+
+
+
+
+Oysa devlet kurumlarýnýn ellerindeki bilgileri “bilimsel çalýþma” ve benzeri kýlýflarla satmalarýnýn ne denli etik olduðu ciddi bir tartýþma konusudur.
+
+
+
+
+
+
+
+Þimdi baþýmýza bir de özel þirketlerin insanlarý izlemesi ve elde ettikleri bilgileri kendi ticari amaçlarý için kullanmasý sorunu çýkýyor…
+
+
+
+
+
+
+
+Sanýrým, bu iþ BTK Baþkanlýðý’nýn yetkisinde:
+
+
+
+
+
+
+
+Türkiye’de kendi ticari amaçlarý için, kullanýcýlarýnýn internet hareketlerini izleyen þirketler var mýdýr?
+
+
+
+
+
+
+
+Varsa bu yasal mýdýr?
+
+
+
+
+
+
+
+Yukarda adý geçen programý kimler kullanmaktadýr?
+
+
+
+
+
+
+
+BTK bir açýklama yapsa da gerçekleri öðrensek!
+
+
+

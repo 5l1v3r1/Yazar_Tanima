@@ -1,0 +1,182 @@
+05 Þubat 2013 Salý
+
+3 Þubat Pazar günü Tolga Tanýþ, Hürriyet’te “Türkiye Þanghay’a girerse...” baþlýðýyla çok ilginç bir makale yazdý.
+
+
+
+
+
+
+
+Esas olarak, demokrasi ve özgürlük konusundaki toplumsal deðerlerimizin Batý’nýn özgürlükçü anlayýþýna göre biçimlendiðini...
+
+
+
+
+
+
+
+Þanghay Beþlisi’ne girmeninse bu deðerlerde yozlaþmaya yol açacaðýný belirten...
+
+
+
+
+
+
+
+Ve Türkiye’nin Þanghay Beþlisi’ne girmesi halinde, toplumsal olarak daha otoriter bir deðerler sistemine kayma tehlikesine iþaret eden çok güzel bir çözümleme yapmýþtý.
+
+
+
+
+
+
+
+Ama benim dikkatimi yazýnýn içindeki bir ayrýntý çekti.
+
+
+
+
+
+
+
+Þöyle bir bilgi veriyordu Tanýþ:
+
+
+
+
+
+
+
+“Toronto Üniversitesi’nde bir grup öðrenci Citizen Lab adýnda bir örgüt kurmuþ. Dünyanýn her yerinde internete uygulanan yasaklarý, sansürleri takip edip raporluyor. Son küresel raporlarýný geçen ay açýkladýlar. Ve Türkiye’den de bahsettiler. Ýnternete filtre uygulamasý, yasaklanan siteler... Bilinen þeyler.
+
+
+
+
+
+
+
+Ama iþin asýl ilginç olan teknik kýsmýnda ise… Grup, sansür için de kullanýldýðýný düþündüðü Blue Coat Systems þirketine ait PacketShaper adlý bir ürünün TTNet tarafýndan da kurulduðunu tespit etmiþ.
+
+
+
+
+
+
+
+Araþtýrmanýn baþýndaki Jakub Dalek’i aradým. Biraz daha detay öðrenmek istedim. ‘Aslýnda Türkiye çok kötü durumda deðil. PacketShaper’ý sadece tek bir yerde tespit ettik. Suudi Arabistan, Suriye gibi ülkelerin yanýnda çok düþük bir oran’ dedi.
+
+
+
+
+
+
+
+‘PacketShaper sansürü nasýl gerçekleþtiriyor’ dedim.
+
+
+
+
+
+
+
+‘Kiþisel bilgilerin takibini saðlayýp izleme özelliði taþýyor’ dedi.
+
+
+
+
+
+
+
+Mesela okuduðunuz her e-postanýn takip edilmesi, Google’da aradýðýnýz her sözcüðün kaydedilmesi gibi.”
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+Ýnsaný çok rahatsýz eden bir bilgi bu!
+
+
+
+
+
+
+
+Aslýnda AKP’nin “Ýleri Demokrasi” rejiminde herkesin, her an, her yerde izlendiði, kayda alýndýðý, üstelik de bu kayýtlarýn (kimi zaman üzerinde oynandýktan sonra) yayýmlandýðý biliniyor...
+
+
+
+
+
+
+
+Ama bilinmeyen ve kabul edilemeyecek olan husus, tüketicilere kablosuz internet baðlantýsý hizmeti veren bir ticari kuruluþun bunu yapýyor olmasý!
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+Þimdi soruyorum, Tanýþ’ýn makalesinde anlatýlan iddia gerçek midir?
+
+
+
+
+
+
+
+Gerçekse bu, anayasal bir hak olan özel yaþamýn gizliliðinin ihlali deðil midir?
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+
+Elbette bu bir iddia...
+
+
+
+
+
+
+
+Ama kaynaðýna bakýlýrsa Kanada’dan gelen ciddi ve rahatsýz edici bir iddia!
+
+
+
+
+
+
+
+TTNet’in yanýtýný bekliyorum!
+
+
+
